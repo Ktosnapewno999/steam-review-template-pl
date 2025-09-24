@@ -1,6 +1,6 @@
 {
     "name": "Template",
-    "author": "Stworzone z użyciem generatora recenzji STEAM utworzonego przez VojtaStruha",
+    "author": "Autor",
     "categories": [
         {
             "title": "Grafika",
@@ -31,7 +31,7 @@
             "title": "Audio",
             "type": "radio",
             "options": [
-                "orgazm uszny",
+                "Orgazm uszny",
                 "Bardzo dobra",
                 "Dobra",
                 "Nie najgorsza",
@@ -81,7 +81,7 @@
                 "Poprostu naciśnij 'W'",
                 "Łatwa",
                 "Łatwa do nauki / trudna do opanowania",
-                "Due użycie mózgu",
+                "Duże użycie mózgu",
                 "Trudna",
                 "Dark Souls"
             ]
@@ -158,7 +158,8 @@
                 "7",
                 "8",
                 "9",
-                "10"
+                "10",
+                "11"
             ]
         }
     ]
